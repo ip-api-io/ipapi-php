@@ -81,3 +81,4 @@ foreach ($batch['results'] as $ip => $info) {
 - [VPN, proxy & Tor detection](vpn-proxy-tor.md) — the individual threat checks
 - [ASN & DNS lookups](asn-and-dns.md) — network ownership for an IP
 - Product pages: [IP geolocation](https://ip-api.io/what-is-my-ip) · [Bulk IP lookup](https://ip-api.io/bulk-ip-lookup)
+- [Full tutorial on ip-api.io](https://ip-api.io/docs/sdk/php/ip-geolocation)
